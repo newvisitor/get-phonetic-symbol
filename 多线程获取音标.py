@@ -1,7 +1,6 @@
 import urllib.request
 from multiprocessing import Pool
 import re
-import requests
 import urllib.request as req
 from urllib.parse import unquote
 
